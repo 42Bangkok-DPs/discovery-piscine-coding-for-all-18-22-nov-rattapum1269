@@ -1,2 +1,3 @@
-name = " rattapum Sornkeaw"
-print(name)
+name = " rattapum "
+lname = "sornkeaw"
+print(f"{name}{lname}")
