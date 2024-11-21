@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 num1 = float(input("Give me the first number: ").strip())
 num2 = float(input("Give me the second number: ").strip())
 
